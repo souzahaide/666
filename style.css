@@ -11,11 +11,15 @@ h1 {
 
 h2 {
     text-align: center;
+    text-align: center; font-size: 30px;
+    color: rgb(230, 212, 197);
     
 }
 
 h3 {
     text-align: center;
+    text-align: center; font-size: 30px;
+    color: rgb(191, 127, 71);
 }
 
 p {
@@ -43,9 +47,6 @@ h5{
     font-style: italic;
 }
 
- #videotec2 {
-    width: 60%;
-    height: 80;
- }
+
 
  
