@@ -1,50 +1,56 @@
-body {
-    background: #dcafa9f8;
-}
 
- 
+body {
+background-image:url(ed.jpg) ;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
 
 
 h1 {
     text-align: center; font-size: 50px;
+  color: rgb(0, 0, 0);
+
 }
 
 h2 {
     text-align: center;
-    text-align: center; font-size: 30px;
-    color: rgb(230, 212, 197);
+    text-align: center; font-size: 25px;
+    color: rgb(0, 0, 0);
     
 }
 
 h3 {
     text-align: center;
-    text-align: center; font-size: 30px;
-    color: rgb(191, 127, 71);
+    text-align: center; font-size: 40px;
+    color: rgb(0, 0, 0);
 }
 
 p {
    text-align: center;
+   font-size: 20px;
 }
 
 #missão {
-    font-size: 30px;
+    font-size: 40px;
+    
 }
 
 em strong {
-    color: rgb(48, 135, 150);
+    color: rgb(0, 0, 0);
 }
 
 h4 {
-    text-align: center; font-size: 30px;
+    text-align: center; font-size: 40px;
 }
 
 h5{
-    text-align: center; font-size: 15px;
+    text-align: center; font-size: 40px;
 
 }
 
 .itens {
-    font-style: italic;
+font-style: italic;
 }
 
 
