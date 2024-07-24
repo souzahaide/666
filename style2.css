@@ -1,13 +1,5 @@
+body
 
-body {
-background-image:url(ed.jpg) ;
-background-repeat: no-repeat;
-background-size: cover;
-
-}
-body {
-    background-color: aquamarine;color: blueviolet;
-}
 
 h1 {
     text-align: center; font-size: 50px;
@@ -39,7 +31,7 @@ p {
 }
 
 em strong {
-    color: rgb(0, 0, 0);
+    color: rgb(13, 13, 13);
 }
 
 h4 {
@@ -53,8 +45,8 @@ h5{
 
 .itens {
 font-style: italic;
+
 }
-
-
-
- 
+body{
+    background-color: bisque;
+}
